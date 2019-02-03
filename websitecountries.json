@@ -6,6 +6,7 @@
       "id": "ALB",
       "properties": {
         "name": "Albania"
+	      "popupContent":"This is Albania"
       },
       "geometry": {
         "type": "Polygon",
